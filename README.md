@@ -1,2 +1,3 @@
 # Basic-Java-Multithreading-Example
- Paralel olarak çalışan ve ekrana rastgele sayılar yazana bir program. Bu program aynı zamanda kullanıcının klavyede bastığı tuşları dinleyerek Q tuşuna basıldığında program sonlandırır. Q tuşuna basılmadığı taktirde sürekli hiç müdahale olmaksızın ekrana sayılar yazar.
+ [TR] Paralel olarak çalışan ve ekrana rastgele sayılar yazana bir program. Bu program aynı zamanda kullanıcının klavyede bastığı tuşları dinleyerek Q tuşuna basıldığında program sonlandırır. Q tuşuna basılmadığı taktirde sürekli hiç müdahale olmaksızın ekrana sayılar yazar.<br><br>
+ [EN] This is a program that works in parallel and writes random numbers on the screen.This program also waits for the keys that the user presses on the keyboard, and ends the program when the Q key is pressed.If the Q key is not pressed, it constantly writes numbers on the screen without any interference.
