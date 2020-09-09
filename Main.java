@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Fatih ES \n18360859021 \n------------------------------------");
+        
         MultiThreadExample multiThreadExample = new MultiThreadExample();
         multiThreadExample.start();
         InputAl inputAl = new InputAl();
